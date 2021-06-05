@@ -2,8 +2,8 @@ const axios = require('axios');
 const fs = require('fs');
 
 
-const clientID = '0dde6af0f3457e6ea42e7c2426a7fc7e';
-const secretKey = 'f547b36e887715f4a0a28e21f88a6095e79c13b1';
+const clientID = '';
+const secretKey = '';
 
 const hubId = 119297;
 const outputFile = 'vauto-redirects';
